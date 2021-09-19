@@ -1,1 +1,1 @@
-Update by foldernames
+The foldername will be changed everytime a new Shiny arrives the game.
